@@ -1,6 +1,22 @@
 <resources>
-    <string name="app_name">RickAndMorty</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">Rick And Morty App</string>
+    <string name="dummy_text">Texto de prueba</string>
+    <string name="title_home">Reparto</string>
+    <string name="title_dashboard">Localizaciones</string>
+    <string name="title_notifications">Episodios</string>
+
+    <string name="message_empty_list">No se han encontrado registros</string>
+    <string name="loading">Cargando datos</string>
+
+    <!-- SEARCH -->
+    <string name="hint_search">Buscar</string>
+
+    <!-- EPISODIOS -->
+    <string name="episodesAirCode">Primera Emisión: %1s</string>
+    <string name="episodesEpisodeCode">Código: %1s</string>
+
+    <!-- LOCALIZACIONES -->
+    <string name="locationsType">Tipo: %1s</string>
+    <string name="locationDimension">Dimensión: %1s</string>
+
 </resources>
